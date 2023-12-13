@@ -1,0 +1,107 @@
+[
+    {
+    "id": 1,
+    "image": "https://images.pexels.com/photos/1134176/pexels-photo-1134176.jpeg?cs=srgb&dl=dug-out-pool-hotel-pool-1134176.jpg&fm=jpg",
+    "name": "Glockenhof Zürich",
+    "address": "Sihlstrasse 31, Zurich (region), Switzerland",
+    "price": "460"
+    },
+    {
+    "image": "https://www.gannett-cdn.com/-mm-/05b227ad5b8ad4e9dcb53af4f31d7fbdb7fa901b/c=0-64-2119-1259/local/-/media/USATODAY/USATODAY/2014/08/13/1407953244000-177513283.jpg?width=2119&height=1195&fit=crop&format=pjpg&auto=webp",
+    "name": "Seedamm Plaza",
+    "address": "Seedammstrasse 3, Pfäffikon SZ,, Switzerland",
+    "price": 220,
+    "id": 2
+    },
+    {
+    "image": "https://thearchitecturedesigns.com/wp-content/uploads/2019/12/9-Corinthia-Hotel-London.jpg",
+    "name": "Park Hotel Winterthur",
+    "address": "Stadthausstrasse 4, Winterthur, Switzerland",
+    "price": 268,
+    "id": 3
+    },
+    {
+    "id": 4,
+    "image": "https://momblogsociety.com/wp-content/uploads/2019/09/dfrnt-types-oof-hotels.jpg",
+    "name": "Alma Hotel",
+    "address": "Mainaustrasse 24, Zurich, Switzerland",
+    "price": 318
+    },
+    {
+    "id": 5,
+    "image": "https://digital.ihg.com/is/image/ihg/holiday-inn-hotel-and-suites-clearwater-beach-6477439006-4x3",
+    "name": "VitalBoutique Hotel Zurzacherhof",
+    "address": "Dr. Martin Erb-Strasse 5, Zurich (region), Switzerland",
+    "price": 260
+    },
+    {
+    "id": 6,
+    "image": "https://wallpapercave.com/wp/wp38040.jpg",
+    "name": "Hotel MyWay",
+    "address": "Bahnhofstrasse 6, Wallisellen, Switzerland",
+    "price": 270
+    },
+    {
+    "id": 7,
+    "image": "https://cache.marriott.com/marriottassets/marriott/GVALC/gvalc-deluxe-7352-hor-clsc.jpg?interpolation=progressive-bilinear&",
+    "name": "Altstadt Hotel",
+    "address": "Kirchgasse 4, Zürich, Switzerland",
+    "price": 320
+    },
+    {
+    "id": 8,
+    "image": "https://steemitimages.com/DQmeL8fVYhNVUVeBN2gSVAVBbWU64PrceBhRSfYfd4egtkn/hotelmainbuildingevening.jpg",
+    "name": "HOTEL illuster",
+    "address": "Zürichstrasse 14, Uster, Switzerland",
+    "price": 196
+    },
+    {
+    "id": 9,
+    "image": "https://tse3.mm.bing.net/th?id=OIP.EHkOkOQcMloWfrd2qDWn9wHaE8&pid=Api&P=0&h=180",
+    "name": "Alex Lake Zurich",
+    "address": "Seestrasse 182, Thalwil, Zurich, Switzerland",
+    "price": 336
+    },
+    {
+    "id": 10,
+    "image": "https://wallpapercave.com/wp/wp3598848.jpg",
+    "name": "Gasthof Pizzeria Weingarten",
+    "address": "Untere Bahnhofstrasse 8,Zurich (region), Switzerland",
+    "price": 200
+    },
+    {
+    "id": 11,
+    "image": "http://mediad.publicbroadcasting.net/p/kplu/files/styles/x_large/public/201404/AP120521026936_0.jpg",
+    "name": "Hotel Kettenbrücke",
+    "address": "Zollrain 16, Aargau, Switzerland",
+    "price": 270
+    },
+    {
+    "id": 12,
+    "image": "https://images5.alphacoders.com/343/thumb-1920-343181.jpg",
+    "name": "CASPAR das Drei-Häuser-Hotel",
+    "address": "Caspar Wolf-Weg 1, Aargau, Switzerland",
+    "price": 198
+    },
+    {
+    "id": 13,
+    "image": "https://vignette1.wikia.nocookie.net/carrington/images/2/2c/Hotel_room.jpeg/revision/latest/scale-to-width-down/2000?cb=20130814113630",
+    "name": "Mercure Lenzburg Krone",
+    "address": "Kronenplatz 18, Aargau, Switzerland",
+    "price": 240
+    },
+    {
+    "id": 14,
+    "image": "https://tse2.mm.bing.net/th?id=OIP.C9gy_8p18yoTLKX0RRrWLQHaE8&pid=Api&P=0&h=180",
+    "name": "Blue City Hotel",
+    "address": "Haselstrasse 17,, Aargau, Switzerland",
+    "price": 186
+    },
+    {
+    "id": 15,
+    "image": "https://tse3.mm.bing.net/th?id=OIP.9g-YyH0VYpG8CXlX8FjQeAHaEo&pid=Api&P=0&h=180",
+    "name": "HOTEL aarau-WEST",
+    "address": "Muhenstrasse 58, Oberentfelden, Switzerland",
+    "price": 216
+    }
+    ]

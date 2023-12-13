@@ -1,0 +1,14 @@
+{
+  "name": "hotels-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/PrityRastogi16/hotels-api.git",
+  "author": "PrityRastogi16 <surajyoti9839@gmail.com>",
+  "license": "MIT",
+  "scripts":{
+    "start":"yarn server.js"
+  },
+  "dependencies": {
+    "json-server": "^0.17.4"
+  }
+}
